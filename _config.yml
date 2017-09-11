@@ -16,20 +16,20 @@ author: Tudor David
 baseurl: /
 title: Tudor David's Personal Web Page
 name: Tudor David
-email: tudor.david@gmail.com
-email_full: mailto:tudordavid@gmail.com
+email: tudor@tudordavid.com
+email_full: mailto:tudor@tudordavid.com
 website: tudordavid.com
 website_full: https://tudordavid.com
 github: tudordavid
 twitter: tudordavid
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
-#google_analytics: UA-69300817-1
 
+tel: +41 78 94 44 277
+tel_full: tel:+41789444277
+#google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+google_maps: 'https://www.zurich.ibm.com/'
+address: IBM Research Zurich Säumerstrasse 4 
+postcode: CH-8803
+city: Rüschlikon
+country: Switzerland
 # needed for travis-ci build
 exclude: [vendor]
