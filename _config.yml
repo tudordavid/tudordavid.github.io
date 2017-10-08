@@ -4,7 +4,6 @@ rdiscount:
   extensions: [smart]
 permalink: :title.html
 paginate: 5
-gems: [jekyll-paginate]
 port: 4000
 safe: true
 url: http://tudordavid.com
@@ -15,13 +14,16 @@ author: Tudor David
 # for a normal use at the base of the server change it to "/"
 baseurl: /
 title: Tudor David's Personal Web Page
+description: Tudor David's Personal Web Page
 name: Tudor David
+author: Tudor David
 email: tudor@tudordavid.com
 email_full: mailto:tudor@tudordavid.com
 website: tudordavid.com
 website_full: https://tudordavid.com
 github: tudordavid
 twitter: tudordavid
+repository: tudordavid/tudordavid.github.io
 
 tel: +41 44 724 8585
 tel_full: tel:+41447248585
@@ -33,3 +35,8 @@ city: Rüschlikon
 country: Switzerland
 # needed for travis-ci build
 exclude: [vendor]
+
+#gems: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
