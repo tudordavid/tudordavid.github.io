@@ -7,7 +7,7 @@ paginate: 5
 port: 4000
 safe: true
 url: http://tudordavid.com
-author: Tudor David
+author: Tudor Alexandru David
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
@@ -15,8 +15,8 @@ author: Tudor David
 baseurl: /
 title: Tudor David
 description: Tudor Alexandru David's Personal Web Page
-name: Tudor Alexandru David
-author: Tudor David
+name: Tudor David
+author: Tudor Alexandru David
 email: tudor@tudordavid.com
 email_full: mailto:tudor@tudordavid.com
 website: tudordavid.com
