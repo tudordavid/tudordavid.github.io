@@ -25,13 +25,13 @@ github: tudordavid
 twitter: tudordavid
 repository: tudordavid/tudordavid.github.io
 
-tel: +41 44 724 8585
-tel_full: tel:+41447248585
+#tel: +41 44 724 8585
+#tel_full: tel:+41447248585
 #google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-google_maps: 'https://www.zurich.ibm.com/'
-address: IBM Research Zurich Säumerstrasse 4 
-postcode: CH-8803
-city: Rüschlikon
+google_maps: 'https://goo.gl/maps/wD3NdZdDS9F7HMNM6'
+address: Oracle Labs, Prime Tower, Hardstrasse 201
+postcode: CH-8005
+city: Zürich
 country: Switzerland
 # needed for travis-ci build
 exclude: [vendor]
